@@ -1,4 +1,4 @@
 ### 下载
-`npm intsall`
+`npm install`
 ### 启动
 `npm start`
