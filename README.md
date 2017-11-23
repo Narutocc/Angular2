@@ -6,5 +6,5 @@
 ### 日志
 Article | Article |
 --- | --- |
-[test](https://github.com/Narutocc/Angular2/issues) | foo | 
+[手动创建angular2项目](https://github.com/Narutocc/Angular2/issues) | foo | 
 
