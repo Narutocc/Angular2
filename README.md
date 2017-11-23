@@ -6,5 +6,5 @@
 ### 日志
 Article | Article |
 --- | --- |
-[test]() | foo | 
+[test](https://github.com/Narutocc/Angular2/issues) | foo | 
 
